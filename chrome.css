@@ -1,0 +1,11 @@
+body {
+  width: 200px;
+  height: auto;
+}
+input {
+  display: block;
+  margin: 0 auto;
+}
+h2 {
+  text-align: center;
+}

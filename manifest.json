@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Color Changer",
+  "version": "1.0.0",
+  "description": "Changes the color of background",
+  "icons": {
+    "16": "pic.png"
+  },
+  "action": {
+    "default_icon": "pic.png",
+    "default_popup": "chrome.html"
+  },
+  "permissions": ["scripting", "tabs", "activeTab"]
+}
